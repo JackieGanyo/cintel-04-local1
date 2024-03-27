@@ -1,0 +1,10 @@
+Altair
+faicons
+palmerpenguins
+pandas
+pyarrow
+plotyly
+seaborn
+shiny
+shinylive
+shinywidgets
